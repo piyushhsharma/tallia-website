@@ -1,0 +1,1 @@
+chrome-extension://hgipopnedpcknmapfakdedlnjjkmpnao/assets/fonts/NeueHaasDisplayRoman.ttf

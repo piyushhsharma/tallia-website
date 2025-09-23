@@ -1,0 +1,354 @@
+.elementor-894 .elementor-element.elementor-element-f1a640c>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-894 .elementor-element.elementor-element-f1a640c:not(.elementor-motion-effects-element-type-background),
+.elementor-894 .elementor-element.elementor-element-f1a640c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-894 .elementor-element.elementor-element-f1a640c>.elementor-container {
+    min-height: 78px;
+}
+
+.elementor-894 .elementor-element.elementor-element-f1a640c {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 30px 0px 30px;
+    z-index: 99999;
+}
+
+.elementor-894 .elementor-element.elementor-element-f1a640c>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-widget-image .widget-image-caption {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-894 .elementor-element.elementor-element-b5a3804 {
+    text-align: left;
+}
+
+.elementor-894 .elementor-element.elementor-element-b5a3804 img {
+    width: 120px;
+}
+
+.elementor-894 .elementor-element.elementor-element-b5a3804:hover img {
+    opacity: 1;
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu .elementor-item {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-text);
+    fill: var( --e-global-color-text);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-accent);
+    fill: var( --e-global-color-accent);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
+    background-color: var( --e-global-color-accent);
+}
+
+.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after {
+    border-color: var( --e-global-color-accent);
+}
+
+.elementor-widget-nav-menu {
+    --e-nav-menu-divider-color: var( --e-global-color-text);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item,
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-sub-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight);
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-menu-toggle {
+    margin-left: auto;
+    background-color: #02010100;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu .elementor-item {
+    font-family: "Avenir", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main .elementor-item {
+    color: #000000;
+    fill: #000000;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main .elementor-item:hover,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main .elementor-item:focus {
+    color: #E87722;
+    fill: #E87722;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: #000000;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b {
+    --e-nav-menu-horizontal-menu-item-margin: calc( 60px / 2);
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu>li:not(:last-child) {
+    margin-bottom: 60px;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-menu-toggle {
+    color: #000000;
+    fill: #000000;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown {
+    background-color: #FFFFFF;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a:hover,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a:focus,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a.highlighted,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-menu-toggle:hover,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-menu-toggle:focus {
+    color: #E87722;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a:hover,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a:focus,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown a.highlighted {
+    background-color: #FFFFFF;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown .elementor-item,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--dropdown .elementor-sub-item {
+    font-family: "Avenir", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main>.elementor-nav-menu>li>.elementor-nav-menu--dropdown,
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu__container.elementor-nav-menu--dropdown {
+    margin-top: 29px !important;
+}
+
+.elementor-894 .elementor-element.elementor-element-f1a4aaf>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-894 .elementor-element.elementor-element-f1a4aaf:not(.elementor-motion-effects-element-type-background),
+.elementor-894 .elementor-element.elementor-element-f1a4aaf>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-894 .elementor-element.elementor-element-f1a4aaf {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 30px 20px 30px;
+}
+
+.elementor-894 .elementor-element.elementor-element-f1a4aaf>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-894 .elementor-element.elementor-element-96864aa {
+    text-align: left;
+}
+
+.elementor-894 .elementor-element.elementor-element-96864aa:hover img {
+    opacity: 1;
+}
+
+.elementor-theme-builder-content-area {
+    height: 400px;
+}
+
+.elementor-location-header:before,
+.elementor-location-footer:before {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media(min-width:768px) {
+    .elementor-894 .elementor-element.elementor-element-6347393 {
+        width: 20%;
+    }
+    .elementor-894 .elementor-element.elementor-element-09720b1 {
+        width: 80%;
+    }
+    .elementor-894 .elementor-element.elementor-element-09ce89a {
+        width: 20%;
+    }
+    .elementor-894 .elementor-element.elementor-element-9a55e17 {
+        width: 80%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-894 .elementor-element.elementor-element-f1a640c {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-894 .elementor-element.elementor-element-6347393 {
+        width: 60%;
+    }
+    .elementor-894 .elementor-element.elementor-element-b5a3804 img {
+        width: 70%;
+    }
+    .elementor-894 .elementor-element.elementor-element-09720b1 {
+        width: 40%;
+    }
+    .elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu--main>.elementor-nav-menu>li>.elementor-nav-menu--dropdown,
+    .elementor-894 .elementor-element.elementor-element-733da1b .elementor-nav-menu__container.elementor-nav-menu--dropdown {
+        margin-top: 22px !important;
+    }
+    .elementor-894 .elementor-element.elementor-element-733da1b {
+        --nav-menu-icon-size: 23px;
+    }
+    .elementor-894 .elementor-element.elementor-element-f1a4aaf {
+        padding: 5px 5px 5px 5px;
+        z-index: 99999;
+    }
+    .elementor-894 .elementor-element.elementor-element-09ce89a {
+        width: 60%;
+    }
+    .elementor-894 .elementor-element.elementor-element-96864aa img {
+        width: 50%;
+    }
+    .elementor-894 .elementor-element.elementor-element-9a55e17 {
+        width: 40%;
+    }
+}
+
+/* Start custom CSS for image, class: .elementor-element-b5a3804 */
+
+.elementor-894 .elementor-element.elementor-element-b5a3804 img:hover {
+    content: url('http://tallia.com/wp-content/uploads/2022/12/tallia-black-logo.png');
+    transition-duration: 3s;
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for nav-menu, class: .elementor-element-733da1b */
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-item::before {
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 0;
+    height: 1px;
+    background: #E87722;
+    transition: width .3s;
+}
+
+.elementor-894 .elementor-element.elementor-element-733da1b .elementor-item:hover::before {
+    width: 100%;
+}
+
+.elementor-slideshow__title {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .elementor-894 .elementor-element.elementor-element-733da1b .elementor-item::before {
+        display: none;
+    }
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for section, class: .elementor-element-f1a640c */
+
+.she-header {
+    background: rgba(255, 255, 255, 0.75) !important;
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for image, class: .elementor-element-96864aa */
+
+.elementor-894 .elementor-element.elementor-element-96864aa img:hover {
+    content: url('http://tallia.com/wp-content/uploads/2022/12/Asset-1.svg');
+    transition-duration: 3s;
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for section, class: .elementor-element-f1a4aaf */
+
+.she-header {
+    background: rgba(255, 255, 255, 0.75) !important;
+}
+
+/* End custom CSS */
+
+/* Start custom CSS */
+
+.header {
+    -webkit-transition: all .5s !important;
+    -moz-transition: all .5s !important;
+    -o-transition: all .5s !important;
+    transition: all .5s !important;
+}
+
+.she-header {
+    -webkit-transition: all .5s !important;
+    -moz-transition: all .5s !important;
+    -o-transition: all .5s !important;
+    transition: all .5s !important;
+}
+
+/* End custom CSS */
+
+/* Start Custom Fonts CSS */
+
+@font-face {
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 300;
+    font-display: auto;
+    src: url('https://www.tallia.com/wp-content/uploads/2023/03/Avenir-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 500;
+    font-display: auto;
+    src: url('https://www.tallia.com/wp-content/uploads/2023/03/Avenir-Book.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 700;
+    font-display: auto;
+    src: url('https://www.tallia.com/wp-content/uploads/2023/03/Avenir-Black.ttf') format('truetype');
+}
+
+/* End Custom Fonts CSS */
